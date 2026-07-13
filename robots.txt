@@ -1,0 +1,8 @@
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /*?*
+Crawl-delay: 1
+
+Host: fastgame777.fit
+Sitemap: https://fastgame777.fit/sitemap.xml
