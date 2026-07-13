@@ -4,5 +4,5 @@ Disallow: /admin/
 Disallow: /*?*
 Crawl-delay: 1
 
-Host: fastgame777.fit
-Sitemap: https://fastgame777.fit/sitemap.xml
+Host: https://zeus-vs-hades-seven.vercel.app/
+Sitemap: https://zeus-vs-hades-seven.vercel.app//sitemap.xml
